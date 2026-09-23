@@ -11,9 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Arjunren-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arjunren)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
-[![Email](https://img.shields.io/badge/Email-arjunrenvon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunrenvon@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-arjunren.grande.valdez-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arjunren.grande.valdez)
-[![Instagram](https://img.shields.io/badge/Instagram-arjunren__von-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arjunren_von/)
 
 </div>
 
