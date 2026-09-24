@@ -1,28 +1,72 @@
 <div align="center">
 
-<img src="https://arjunrenvon.vercel.app/images/Me.jpg" width="170" alt="Arjunren Von">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=190&section=header&text=Arjunren%20Von&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Arjunren Von">
 
-# Arjunren Von
+<img src="https://arjunrenvon.vercel.app/images/Me.jpg" width="150" alt="Arjunren Von">
 
-**Software & Network Engineer • Ethical Hacker • Photographer**
+<h3>Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Ethical Hacker &nbsp;•&nbsp; Photographer</h3>
 
-`Software Engineering` • `AI` • `Cloud` • `Cybersecurity` • `Networking`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=0A66C2&center=true&vCenter=true&width=560&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arjunren)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
+
+<sub>
+<a href="#about-me">About</a> &nbsp;·&nbsp;
+<a href="#what-i-do">What I Do</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#github-activity">Activity</a> &nbsp;·&nbsp;
+<a href="#certificates--credentials">Credentials</a> &nbsp;·&nbsp;
+<a href="#experience">Experience</a> &nbsp;·&nbsp;
+<a href="#lets-connect">Contact</a>
+</sub>
 
 </div>
 
----
+<br>
 
 ## About Me
 
-I'm a multidisciplinary **Software Engineer, Network Engineer, and Ethical Hacker** focused on building secure end-to-end systems. My work spans Python and JavaScript development, computer-vision interfaces, IoT telemetry, network infrastructure, automation, and security-focused software—including systems designed to protect digital assets.
+I'm a multidisciplinary **Software Engineer, Network Engineer, and Ethical Hacker** focused on building secure end-to-end systems. My work spans Python and JavaScript development, computer-vision interfaces, IoT telemetry, network infrastructure, automation, and security-focused software, including systems designed to protect digital assets.
 
 Outside engineering, photography is one of my main creative interests. I enjoy combining technical problem-solving with visual creativity and building practical tools that people can actually use.
 
----
+## What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<b>💻 Software Engineering</b><br>
+<sub>Full-stack and desktop applications in Python, JavaScript/TypeScript, Java, C#, and PHP.</sub>
+</td>
+<td width="33%" valign="top">
+<b>🤖 AI & Automation</b><br>
+<sub>Computer-vision interfaces, voice assistants, and workflow automation with OpenCV, PyTorch, n8n, and Playwright.</sub>
+</td>
+<td width="33%" valign="top">
+<b>☁️ Cloud & DevOps</b><br>
+<sub>Containerized, automated deployments with Docker, Kubernetes, Terraform, AWS, and Azure.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>🛡️ Cybersecurity</b><br>
+<sub>Ethical hacking, web and API security, and defensive tooling built to protect digital assets.</sub>
+</td>
+<td valign="top">
+<b>🌐 Networking</b><br>
+<sub>Network infrastructure with MikroTik, Cisco, pfSense, Fortinet, and Ubiquiti, plus PABX and CCTV systems.</sub>
+</td>
+<td valign="top">
+<b>🔌 IoT & Hardware</b><br>
+<sub>Telemetry and embedded projects using Raspberry Pi, ESP32, and Arduino.</sub>
+</td>
+</tr>
+</table>
 
 ## Verified by Industry-Leading Platforms
 
@@ -35,79 +79,110 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 </tr>
 <tr>
 <td align="center"><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="34" alt="Coursera"><br><sub><b>Coursera</b></sub></a></td>
-<td align="center"><a href="https://www.udemy.com/"><b>Udemy</b></a></td>
+<td align="center"><a href="https://www.udemy.com/"><img src="https://icon.horse/icon/udemy.com" height="34" alt="Udemy"><br><sub><b>Udemy</b></sub></a></td>
 <td align="center"><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="34" alt="edX"><br><sub><b>edX</b></sub></a></td>
 <td align="center"><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="34" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="34" alt="Hack&Fix"><br><sub><b>Hack&amp;Fix</b></sub></a></td>
-<td align="center"><a href="https://www.freecodecamp.org/"><b>FreeCodeCamp</b></a></td>
+<td align="center"><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="34" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a></td>
+<td align="center"><a href="https://www.freecodecamp.org/"><img src="https://icon.horse/icon/freecodecamp.org" height="34" alt="freeCodeCamp"><br><sub><b>freeCodeCamp</b></sub></a></td>
 <td align="center"><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="34" alt="HackViser"><br><sub><b>HackViser</b></sub></a></td>
-<td align="center"><a href="https://www.cisco.com/"><b>Cisco</b></a></td>
+<td align="center"><a href="https://www.cisco.com/"><img src="https://icon.horse/icon/cisco.com" height="34" alt="Cisco"><br><sub><b>Cisco</b></sub></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="34" alt="OffSec"><br><sub><b>OffSec</b></sub></a></td>
 <td align="center"><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="38" alt="DICT"><br><sub><b>DICT</b></sub></a></td>
-<td align="center"><a href="https://www.datacamp.com/"><b>DataCamp</b></a></td>
+<td align="center"><a href="https://www.datacamp.com/"><img src="https://icon.horse/icon/datacamp.com" height="34" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a></td>
 <td align="center"><a href="https://www.codecademy.com/"><img src="https://icon.horse/icon/codecademy.com" height="34" alt="Codecademy"><br><sub><b>Codecademy</b></sub></a></td>
 </tr>
 </table>
 
----
+## Tech Stack
 
-## Core Tech Stack
+| Area | Technologies |
+|:--|:--|
+| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/) [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/) |
+| **Frameworks** | [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/) |
+| **Databases** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)](https://redis.io/) |
+| **Cloud & DevOps** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) |
+| **AI & Vision** | [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) |
+| **Operating Systems** | [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/) |
 
-<p align="center">
-  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="https://www.java.com/" title="Java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"></a>
-  <a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
-  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-  <a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
-  <a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="https://redis.io/" title="Redis"><img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"></a>
-  <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"></a>
-  <a href="https://www.terraform.io/" title="Terraform"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></a>
-  <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://opencv.org/" title="OpenCV"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-  <a href="https://pytorch.org/" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
-  <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
-  <a href="https://www.kali.org/" title="Kali Linux"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"></a>
-</p>
+<details>
+<summary><b>View complete technical stack</b></summary>
+<br>
 
-<p align="center"><sub>Each badge links to the official project or documentation site.</sub></p>
+| Category | Tools & Technologies |
+|:--|:--|
+| **Frontend** | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Next.js, Vue.js, Angular |
+| **Backend** | Java, Python, Node.js, FastAPI, Django, PHP, Go, Rust, C#, .NET MAUI, Spring Boot, GraphQL, Supabase, PostgreSQL, MongoDB, Redis |
+| **Design** | Figma, Photoshop, Illustrator, Adobe XD, Canva |
+| **DevOps & Cloud** | AWS, Azure, Docker, Terraform, Ansible, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, Vagrant, Prometheus, Grafana |
+| **Data & AI** | Kaggle, Roboflow, OpenCV, PyTorch, TensorFlow, Pandas, NumPy |
+| **Automation** | n8n, Selenium, Playwright, Bash, PowerShell |
+| **Cybersecurity & Pentesting** | Nmap, Wireshark, Burp Suite, Metasploit, Aircrack-ng, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, Nessus, Snort, Splunk, Ghidra, Maltego, Kismet, Radare2, YARA, Suricata, Zeek, Gobuster, Nikto, Dirb |
+| **Operating Systems** | Kali Linux, Parrot OS, Windows, Ubuntu Server, RHEL, CentOS, Debian |
+| **Virtualization** | VMware, VirtualBox, Proxmox, Hyper-V, KVM |
+| **Hosting & Deployment** | Vercel, Netlify, PythonAnywhere, Hostinger, Render, Railway, DigitalOcean, Heroku |
+| **Developer Tools** | VS Code, Visual Studio, Git, Android Studio, XAMPP, Arduino, MySQL, Swagger, PySide6, PyInstaller, Postman, Webpack |
+| **Networking** | Packet Tracer, TP-Link, Network Switch, Optic Fiber, Fortinet, MikroTik, Ruijie, DrayTek, Ubiquiti, Reyee, pfSense, Cisco IOS, OSPF, BGP, Palo Alto, EVE-NG, GNS3 |
+| **PABX & Telephony** | Yeastar, NEC, Shenou |
+| **CCTV & Surveillance** | Hikvision, Dahua |
+| **Hardware & IoT** | Local Server, Raspberry Pi, ESP32, Arduino Uno, HX711 |
 
----
+</details>
+
+<p align="right"><sub>Each badge links to the official project or documentation site.</sub></p>
 
 ## Featured Projects
 
-These are my current pinned GitHub repositories.
+<sub>My current pinned GitHub repositories.</sub>
 
-| Project | What it does | Main technology |
-|---|---|---|
-| [**Jarvis_V1**](https://github.com/Arjunren/Jarvis_V1) | Voice-activated Windows AI assistant with speech recognition, text-to-speech, app/system controls, web actions, media controls, a pygame interface, and automated tests. | Python |
-| [**CyberRangeDesktopLab**](https://github.com/Arjunren/CyberRangeDesktopLab) | Local-first defensive cybersecurity training desktop app with guided courses, safe simulations, quizzes, CTF-style challenges, progress tracking, instructor tools, audit logs, and PDF certificates. | Java / JavaFX |
-| [**Digital_Asset_Management**](https://github.com/Arjunren/Digital_Asset_Management) | Native digital-asset library for local XAMPP use with secure uploads, metadata/search, RBAC, previews, version history, sharing, collections, reporting, audit logs, and recycle-bin workflows. | PHP 8 / MySQL |
-| [**OpenPresenter**](https://github.com/Arjunren/OpenPresenter) | Open-source browser application for opening and presenting `.pptx` files without requiring Microsoft PowerPoint, LibreOffice, or a server-side conversion service. | TypeScript |
-| [**Programming_Exam_Platform**](https://github.com/Arjunren/Programming_Exam_Platform) | Secure-by-design WPF foundation for academic programming exams with SQLite persistence, authentication/lockout, dashboards, examinations, audit logs, grading primitives, timer logic, and a fail-closed execution boundary. | C# / WPF |
-| [**Table_Management_System**](https://github.com/Arjunren/Table_Management_System) | Full-stack restaurant table-management system with dynamic floorplan editing, real-time table operations, receipt generation, MySQL-backed data handling, and deployment automation. | Python / Flask / MySQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Arjunren/Jarvis_V1"><b>Jarvis_V1</b></a><br>
+<sub>Voice-activated Windows AI assistant with speech recognition, text-to-speech, app/system controls, web actions, media controls, a pygame interface, and automated tests.</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Arjunren/CyberRangeDesktopLab"><b>CyberRangeDesktopLab</b></a><br>
+<sub>Local-first defensive cybersecurity training desktop app with guided courses, safe simulations, quizzes, CTF-style challenges, progress tracking, instructor tools, audit logs, and PDF certificates.</sub><br><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square" alt="JavaFX">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/Arjunren/Digital_Asset_Management"><b>Digital_Asset_Management</b></a><br>
+<sub>Native digital-asset library for local XAMPP use with secure uploads, metadata/search, RBAC, previews, version history, sharing, collections, reporting, audit logs, and recycle-bin workflows.</sub><br><br>
+<img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</td>
+<td valign="top">
+<a href="https://github.com/Arjunren/OpenPresenter"><b>OpenPresenter</b></a><br>
+<sub>Open-source browser application for opening and presenting <code>.pptx</code> files without requiring Microsoft PowerPoint, LibreOffice, or a server-side conversion service.</sub><br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/Arjunren/Programming_Exam_Platform"><b>Programming_Exam_Platform</b></a><br>
+<sub>Secure-by-design WPF foundation for academic programming exams with SQLite persistence, authentication/lockout, dashboards, examinations, audit logs, grading primitives, timer logic, and a fail-closed execution boundary.</sub><br><br>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square" alt="WPF">
+</td>
+<td valign="top">
+<a href="https://github.com/Arjunren/Table_Management_System"><b>Table_Management_System</b></a><br>
+<sub>Full-stack restaurant table-management system with dynamic floorplan editing, real-time table operations, receipt generation, MySQL-backed data handling, and deployment automation.</sub><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</td>
+</tr>
+</table>
 
----
-
-## GitHub Contributions
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/Arjunren">
@@ -118,33 +193,27 @@ These are my current pinned GitHub repositories.
   </a>
 </p>
 
-<p align="center"><sub>Automatically regenerated by GitHub Actions from my GitHub contribution activity.</sub></p>
-
----
-
-## GitHub Statistics
+<p align="center"><sub>Contribution calendar automatically regenerated by GitHub Actions.</sub></p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Arjunren&show_icons=true&hide_rank=true&theme=dark">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Arjunren&show_icons=true&hide_rank=true" alt="Arjunren GitHub statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Arjunren&show_icons=true&hide_rank=true&theme=dark&hide_border=true&bg_color=00000000">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Arjunren&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000" alt="Arjunren GitHub statistics">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Arjunren&layout=compact&langs_count=8&theme=dark">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arjunren&layout=compact&langs_count=8" alt="Languages across Arjunren GitHub projects">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Arjunren&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=00000000">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arjunren&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Languages across Arjunren GitHub projects">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Arjunren&theme=dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=Arjunren&hide_border=true" alt="Arjunren GitHub contribution streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Arjunren&theme=dark&hide_border=true&background=00000000">
+    <img src="https://streak-stats.demolab.com/?user=Arjunren&hide_border=true&background=00000000" alt="Arjunren GitHub contribution streak">
   </picture>
 </p>
 
-<sub>Language cards reflect language usage in public, non-forked repositories; they are not a measure of proficiency.</sub>
-
----
+<p align="center"><sub>Language cards reflect usage in public, non-forked repositories and are not a measure of proficiency.</sub></p>
 
 ## Certificates & Credentials
 
@@ -191,56 +260,33 @@ These are my current pinned GitHub repositories.
 </tr>
 </table>
 
----
-
 ## Experience
 
-| Period | Role | Organization / Milestone |
-|---|---|---|
+| Period | Role | Organization |
+|:--|:--|:--|
 | **2025 – Present** | Software Engineer Lead | BigBoys Automation |
 | **2024** | Senior Software Developer | BigBoys Automation |
 | **2024** | Junior Software Developer | BigBoys Automation |
 | **2023** | Technical IT Support | Datatelcom System Communication |
-| **2022** | Hello World! | Wrote my first line of code in Java |
-
----
-
-<details>
-<summary><b>View Complete Technical Stack</b></summary>
-<br>
-
-- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Next.js, Vue.js, Angular
-- **Backend:** Java, Python, Node.js, FastAPI, Django, PHP, Go, Rust, C#, .NET MAUI, Spring Boot, GraphQL, Supabase, PostgreSQL, MongoDB, Redis
-- **Design:** Figma, Photoshop, Illustrator, Adobe XD, Canva
-- **DevOps & Cloud:** AWS, Azure, Docker, Terraform, Ansible, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins, CircleCI, Vagrant, Prometheus, Grafana
-- **Data & AI:** Kaggle, Roboflow, OpenCV, PyTorch, TensorFlow, Pandas, NumPy
-- **Automation:** n8n, Selenium, Playwright, Bash, PowerShell
-- **Cybersecurity & Pentesting:** Nmap, Wireshark, Burp Suite, Metasploit, Aircrack-ng, SQLMap, Hydra, John the Ripper, Hashcat, OWASP ZAP, Nessus, Snort, Splunk, Ghidra, Maltego, Kismet, Radare2, YARA, Suricata, Zeek, Gobuster, Nikto, Dirb
-- **Operating Systems:** Kali Linux, Parrot OS, Windows, Ubuntu Server, RHEL, CentOS, Debian
-- **Virtualization:** VMware, VirtualBox, Proxmox, Hyper-V, KVM
-- **Hosting & Deployment:** Vercel, Netlify, PythonAnywhere, Hostinger, Render, Railway, DigitalOcean, Heroku
-- **Developer Tools:** VS Code, Visual Studio, Git, Android Studio, XAMPP, Arduino, MySQL, Swagger, PySide6, PyInstaller, Postman, Webpack
-- **Networking:** Packet Tracer, TP-Link, Network Switch, Optic Fiber, Fortinet, MikroTik, Ruijie, DrayTek, Ubiquiti, Reyee, pfSense, Cisco IOS, OSPF, BGP, Palo Alto, EVE-NG, GNS3
-- **PABX & Telephony:** Yeastar, NEC, Shenou
-- **CCTV & Surveillance:** Hikvision, Dahua
-- **Hardware & IoT:** Local Server, Raspberry Pi, ESP32, Arduino Uno, HX711
-
-</details>
-
----
+| **2022** | Hello World! 👋 | Wrote my first line of code in Java |
 
 ## Open Source & Collaboration
 
-You're welcome to explore my public repositories, report reproducible issues, suggest improvements, and submit contributions to projects that accept them. Contribution rules and project scope may vary by repository, so check each project's README, issue tracker, and contribution guidance first.
+> [!NOTE]
+> You're welcome to explore my public repositories, report reproducible issues, suggest improvements, and submit contributions to projects that accept them. Contribution rules and project scope may vary by repository, so check each project's README, issue tracker, and contribution guidance first.
 
----
+## Let's Connect
 
 <div align="center">
 
-### Arjunren Von
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
 
-[Portfolio](https://arjunrenvon.vercel.app/) • [GitHub](https://github.com/Arjunren) • [LinkedIn](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
+<br>
 
 **Building software, systems, and tools one project at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=110&section=footer" width="100%" alt="">
 
 </div>
