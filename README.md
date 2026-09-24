@@ -70,28 +70,28 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 
 <table width="100%">
 <tr>
-<td width="25%" align="center" valign="middle"><br><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="50" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a><br><br></td>
-<td width="25%" align="center" valign="middle"><br><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="50" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
-<td width="25%" align="center" valign="middle"><br><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="50" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a><br><br></td>
-<td width="25%" align="center" valign="middle"><br><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="50" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a><br><br></td>
+<td width="16.66%" align="center" valign="top"><br><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="44" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a><br><br></td>
+<td width="16.66%" align="center" valign="top"><br><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="44" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
+<td width="16.66%" align="center" valign="top"><br><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="44" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a><br><br></td>
+<td width="16.66%" align="center" valign="top"><br><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="44" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a><br><br></td>
+<td width="16.66%" align="center" valign="top"><br><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="44" alt="Coursera"><br><sub><b>Coursera</b></sub></a><br><br></td>
+<td width="16.66%" align="center" valign="top"><br><a href="https://www.udemy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy.svg" height="44" alt="Udemy"></picture><br><sub><b>Udemy</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><br><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="50" alt="Coursera"><br><sub><b>Coursera</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://www.udemy.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg" height="50" alt="Udemy"><br><sub><b>Udemy</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="50" alt="edX"><br><sub><b>edX</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="50" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="44" alt="edX"><br><sub><b>edX</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="44" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="44" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.freecodecamp.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/freecodecamp/FFFFFF"><img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" height="44" alt="freeCodeCamp"></picture><br><sub><b>freeCodeCamp</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="44" alt="HackViser"><br><sub><b>HackViser</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="44" alt="Cisco"><br><sub><b>Cisco</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><br><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="50" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://www.freecodecamp.org/"><img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" height="50" alt="freeCodeCamp"><br><sub><b>freeCodeCamp</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="50" alt="HackViser"><br><sub><b>HackViser</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="50" alt="Cisco"><br><sub><b>Cisco</b></sub></a><br><br></td>
-</tr>
-<tr>
-<td align="center" valign="middle"><br><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="50" alt="OffSec"><br><sub><b>OffSec</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="50" alt="DICT"><br><sub><b>DICT</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://www.datacamp.com/"><img src="https://cdn.simpleicons.org/datacamp/03EF62" height="50" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a><br><br></td>
-<td align="center" valign="middle"><br><a href="https://www.codecademy.com/"><img src="https://icon.horse/icon/codecademy.com" height="50" alt="Codecademy"><br><sub><b>Codecademy</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="44" alt="OffSec"><br><sub><b>OffSec</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="44" alt="DICT"><br><sub><b>DICT</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.datacamp.com/"><img src="https://cdn.simpleicons.org/datacamp/03EF62" height="44" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.codecademy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codecademy/FFFFFF"><img src="https://cdn.simpleicons.org/codecademy/1F4056" height="44" alt="Codecademy"></picture><br><sub><b>Codecademy</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://tryhackme.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" height="44" alt="TryHackMe"><br><sub><b>TryHackMe</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.hackthebox.com/"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="44" alt="Hack The Box"><br><sub><b>Hack The Box</b></sub></a><br><br></td>
 </tr>
 </table>
 
