@@ -77,7 +77,7 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 </tr>
 <tr>
 <td align="center"><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="34" alt="Coursera"><br><sub><b>Coursera</b></sub></a></td>
-<td align="center"><a href="https://www.udemy.com/"><img src="https://brandfetch.com/udemy.com?view=library&library=default&collection=logos&asset=idJsrdtbqV&utm_source=https%253A%252F%252Fbrandfetch.com%252Fudemy.com&utm_medium=copyAction&utm_campaign=brandPageReferral" height="34" alt="Udemy"><br><sub><b>Udemy</b></sub></a></td>
+<td align="center"><a href="https://www.udemy.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg" height="34" alt="Udemy"><br><sub><b>Udemy</b></sub></a></td>
 <td align="center"><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="34" alt="edX"><br><sub><b>edX</b></sub></a></td>
 <td align="center"><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="34" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a></td>
 </tr>
@@ -90,7 +90,7 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 <tr>
 <td align="center"><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="34" alt="OffSec"><br><sub><b>OffSec</b></sub></a></td>
 <td align="center"><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="38" alt="DICT"><br><sub><b>DICT</b></sub></a></td>
-<td align="center"><a href="https://www.datacamp.com/"><img src="https://brandfetch.com/datacamp.com?view=library&library=default&collection=logos&asset=id4a2bGUVv&utm_source=https%253A%252F%252Fbrandfetch.com%252Fdatacamp.com&utm_medium=copyAction&utm_campaign=brandPageReferral" height="34" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a></td>
+<td align="center"><a href="https://www.datacamp.com/"><img src="https://cdn.simpleicons.org/datacamp/03EF62" height="34" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a></td>
 <td align="center"><a href="https://www.codecademy.com/"><img src="https://icon.horse/icon/codecademy.com" height="34" alt="Codecademy"><br><sub><b>Codecademy</b></sub></a></td>
 </tr>
 </table>
