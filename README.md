@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=190&section=header&text=Arjunren%20Von&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Arjunren Von">
 
-<h3>Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; Ethical Hacker &nbsp;•&nbsp; Photographer</h3>
+<h3>Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; CyberSecurity &nbsp;•&nbsp; Photographer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=0A66C2&center=true&vCenter=true&width=560&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
 
@@ -77,20 +77,20 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 </tr>
 <tr>
 <td align="center"><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="34" alt="Coursera"><br><sub><b>Coursera</b></sub></a></td>
-<td align="center"><a href="https://www.udemy.com/"><img src="https://icon.horse/icon/udemy.com" height="34" alt="Udemy"><br><sub><b>Udemy</b></sub></a></td>
+<td align="center"><a href="https://www.udemy.com/"><img src="https://brandfetch.com/udemy.com?view=library&library=default&collection=logos&asset=idJsrdtbqV&utm_source=https%253A%252F%252Fbrandfetch.com%252Fudemy.com&utm_medium=copyAction&utm_campaign=brandPageReferral" height="34" alt="Udemy"><br><sub><b>Udemy</b></sub></a></td>
 <td align="center"><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="34" alt="edX"><br><sub><b>edX</b></sub></a></td>
 <td align="center"><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="34" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="34" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a></td>
-<td align="center"><a href="https://www.freecodecamp.org/"><img src="https://icon.horse/icon/freecodecamp.org" height="34" alt="freeCodeCamp"><br><sub><b>freeCodeCamp</b></sub></a></td>
+<td align="center"><a href="https://www.freecodecamp.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDL5YGw69ZIsqgB-CWctt5hteCckcYs90JNZrxjYb2DA&s=10" height="34" alt="freeCodeCamp"><br><sub><b>freeCodeCamp</b></sub></a></td>
 <td align="center"><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="34" alt="HackViser"><br><sub><b>HackViser</b></sub></a></td>
-<td align="center"><a href="https://www.cisco.com/"><img src="https://icon.horse/icon/cisco.com" height="34" alt="Cisco"><br><sub><b>Cisco</b></sub></a></td>
+<td align="center"><a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="34" alt="Cisco"><br><sub><b>Cisco</b></sub></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="34" alt="OffSec"><br><sub><b>OffSec</b></sub></a></td>
 <td align="center"><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="38" alt="DICT"><br><sub><b>DICT</b></sub></a></td>
-<td align="center"><a href="https://www.datacamp.com/"><img src="https://icon.horse/icon/datacamp.com" height="34" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a></td>
+<td align="center"><a href="https://www.datacamp.com/"><img src="https://brandfetch.com/datacamp.com?view=library&library=default&collection=logos&asset=id4a2bGUVv&utm_source=https%253A%252F%252Fbrandfetch.com%252Fdatacamp.com&utm_medium=copyAction&utm_campaign=brandPageReferral" height="34" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a></td>
 <td align="center"><a href="https://www.codecademy.com/"><img src="https://icon.horse/icon/codecademy.com" height="34" alt="Codecademy"><br><sub><b>Codecademy</b></sub></a></td>
 </tr>
 </table>
