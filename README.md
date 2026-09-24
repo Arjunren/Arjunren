@@ -93,6 +93,19 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 <td align="center" valign="top"><br><a href="https://tryhackme.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" height="44" alt="TryHackMe"><br><sub><b>TryHackMe</b></sub></a><br><br></td>
 <td align="center" valign="top"><br><a href="https://www.hackthebox.com/"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="44" alt="Hack The Box"><br><sub><b>Hack The Box</b></sub></a><br><br></td>
 </tr>
+<tr>
+<td align="center" valign="top"><br><a href="https://portswigger.net/web-security"><img src="https://cdn.simpleicons.org/portswigger/FF6633" height="44" alt="PortSwigger"><br><sub><b>PortSwigger</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://learn.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" height="44" alt="Microsoft Learn"><br><sub><b>Microsoft Learn</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://aws.amazon.com/training/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" height="44" alt="AWS Training"></picture><br><sub><b>AWS Training</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.cloudskillsboost.google/"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="44" alt="Google Cloud"><br><sub><b>Google Cloud</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://training.fortinet.com/"><img src="https://cdn.simpleicons.org/fortinet/EE3124" height="44" alt="Fortinet"><br><sub><b>Fortinet</b></sub></a><br><br></td>
+<td align="center" valign="top"><br><a href="https://www.kaggle.com/learn"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="44" alt="Kaggle"><br><sub><b>Kaggle</b></sub></a><br><br></td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top"><br><img src="https://img.shields.io/badge/BA-0A66C2?style=for-the-badge" height="44" alt="BuildByte Academy"><br><sub><b>BuildByte Academy</b></sub><br><br></td>
+<td colspan="2" align="center" valign="top"><br><img src="https://img.shields.io/badge/DT-0A66C2?style=for-the-badge" height="44" alt="Datatelcom"><br><sub><b>Datatelcom</b></sub><br><br></td>
+<td colspan="2" align="center" valign="top"><br><img src="https://img.shields.io/badge/BB-0A66C2?style=for-the-badge" height="44" alt="BigBoys Automation"><br><sub><b>BigBoys Automation</b></sub><br><br></td>
+</tr>
 </table>
 
 ## Tech Stack
