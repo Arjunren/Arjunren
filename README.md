@@ -68,30 +68,30 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 
 ## Verified by Industry-Leading Platforms
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" align="center"><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="38" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a></td>
-<td width="25%" align="center"><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="38" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a></td>
-<td width="25%" align="center"><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="38" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a></td>
-<td width="25%" align="center"><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="38" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a></td>
+<td width="25%" align="center" valign="middle"><br><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="50" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a><br><br></td>
+<td width="25%" align="center" valign="middle"><br><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="50" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
+<td width="25%" align="center" valign="middle"><br><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="50" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a><br><br></td>
+<td width="25%" align="center" valign="middle"><br><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="50" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="34" alt="Coursera"><br><sub><b>Coursera</b></sub></a></td>
-<td align="center"><a href="https://www.udemy.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg" height="34" alt="Udemy"><br><sub><b>Udemy</b></sub></a></td>
-<td align="center"><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="34" alt="edX"><br><sub><b>edX</b></sub></a></td>
-<td align="center"><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="34" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a></td>
+<td align="center" valign="middle"><br><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="50" alt="Coursera"><br><sub><b>Coursera</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://www.udemy.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg" height="50" alt="Udemy"><br><sub><b>Udemy</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="50" alt="edX"><br><sub><b>edX</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="50" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center"><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="34" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a></td>
-<td align="center"><a href="https://www.freecodecamp.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDL5YGw69ZIsqgB-CWctt5hteCckcYs90JNZrxjYb2DA&s=10" height="34" alt="freeCodeCamp"><br><sub><b>freeCodeCamp</b></sub></a></td>
-<td align="center"><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="34" alt="HackViser"><br><sub><b>HackViser</b></sub></a></td>
-<td align="center"><a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="34" alt="Cisco"><br><sub><b>Cisco</b></sub></a></td>
+<td align="center" valign="middle"><br><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="50" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://www.freecodecamp.org/"><img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" height="50" alt="freeCodeCamp"><br><sub><b>freeCodeCamp</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="50" alt="HackViser"><br><sub><b>HackViser</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="50" alt="Cisco"><br><sub><b>Cisco</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="34" alt="OffSec"><br><sub><b>OffSec</b></sub></a></td>
-<td align="center"><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="38" alt="DICT"><br><sub><b>DICT</b></sub></a></td>
-<td align="center"><a href="https://www.datacamp.com/"><img src="https://cdn.simpleicons.org/datacamp/03EF62" height="34" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a></td>
-<td align="center"><a href="https://www.codecademy.com/"><img src="https://icon.horse/icon/codecademy.com" height="34" alt="Codecademy"><br><sub><b>Codecademy</b></sub></a></td>
+<td align="center" valign="middle"><br><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="50" alt="OffSec"><br><sub><b>OffSec</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="50" alt="DICT"><br><sub><b>DICT</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://www.datacamp.com/"><img src="https://cdn.simpleicons.org/datacamp/03EF62" height="50" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a><br><br></td>
+<td align="center" valign="middle"><br><a href="https://www.codecademy.com/"><img src="https://icon.horse/icon/codecademy.com" height="50" alt="Codecademy"><br><sub><b>Codecademy</b></sub></a><br><br></td>
 </tr>
 </table>
 
