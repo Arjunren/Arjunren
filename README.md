@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm a multidisciplinary **Software Engineer, Network Engineer, Cloud Engineer, and Ethical Hacker** focused on building secure end-to-end systems. My work spans Python and JavaScript development, computer-vision interfaces, IoT telemetry, network infrastructure, automation, and security-focused software, including systems designed to protect digital assets.
+I'm a multidisciplinary **Software Engineer, Network Engineer, Cloud Engineer, and CyberSecurity** focused on building secure end-to-end systems. My work spans Python and JavaScript development, computer-vision interfaces, IoT telemetry, network infrastructure, automation, and security-focused software, including systems designed to protect digital assets.
 
 Outside engineering, photography is one of my main creative interests. I enjoy combining technical problem-solving with visual creativity and building practical tools that people can actually use.
 
