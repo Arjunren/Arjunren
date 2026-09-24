@@ -70,12 +70,15 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 
 <table width="100%">
 <tr>
-<td width="16.66%" align="center" valign="top"><br><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="44" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a><br><br></td>
-<td width="16.66%" align="center" valign="top"><br><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="44" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
-<td width="16.66%" align="center" valign="top"><br><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="44" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a><br><br></td>
-<td width="16.66%" align="center" valign="top"><br><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="44" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a><br><br></td>
-<td width="16.66%" align="center" valign="top"><br><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="44" alt="Coursera"><br><sub><b>Coursera</b></sub></a><br><br></td>
-<td width="16.66%" align="center" valign="top"><br><a href="https://www.udemy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy.svg" height="44" alt="Udemy"></picture><br><sub><b>Udemy</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="44" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="44" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="44" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="44" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="44" alt="Coursera"><br><sub><b>Coursera</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.udemy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy.svg" height="44" alt="Udemy"></picture><br><sub><b>Udemy</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><img src="https://buildbyteacademy.vercel.app/Icon.png" height="44" alt="BuildByte Academy"><br><sub><b>BuildByte Academy</b></sub><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><img src="https://img.shields.io/badge/DT-0A66C2?style=for-the-badge" height="44" alt="Datatelcom"><br><sub><b>Datatelcom</b></sub><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><img src="https://img.shields.io/badge/BB-0A66C2?style=for-the-badge" height="44" alt="BigBoys Automation"><br><sub><b>BigBoys Automation</b></sub><br><br></td>
 </tr>
 <tr>
 <td align="center" valign="top"><br><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="44" alt="edX"><br><sub><b>edX</b></sub></a><br><br></td>
@@ -98,11 +101,6 @@ Outside engineering, photography is one of my main creative interests. I enjoy c
 <td align="center" valign="top"><br><a href="https://portswigger.net/web-security"><img src="https://cdn.simpleicons.org/portswigger/FF6633" height="44" alt="PortSwigger"><br><sub><b>PortSwigger</b></sub></a><br><br></td>
 <td align="center" valign="top"><br><a href="https://learn.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" height="44" alt="Microsoft"><br><sub><b>Microsoft</b></sub></a><br><br></td>
 <td align="center" valign="top"><br><a href="https://aws.amazon.com/training/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" height="44" alt="AWS"></picture><br><sub><b>AWS</b></sub></a><br><br></td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top"><br><img src="https://img.shields.io/badge/BA-0A66C2?style=for-the-badge" height="44" alt="BuildByte Academy"><br><sub><b>BuildByte Academy</b></sub><br><br></td>
-<td colspan="2" align="center" valign="top"><br><img src="https://img.shields.io/badge/DT-0A66C2?style=for-the-badge" height="44" alt="Datatelcom"><br><sub><b>Datatelcom</b></sub><br><br></td>
-<td colspan="2" align="center" valign="top"><br><img src="https://img.shields.io/badge/BB-0A66C2?style=for-the-badge" height="44" alt="BigBoys Automation"><br><sub><b>BigBoys Automation</b></sub><br><br></td>
 </tr>
 </table>
 
