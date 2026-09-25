@@ -53,9 +53,7 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 
 </div>
 
-<details>
-<summary><b>🛠 View Full Tech Stack Breakdown</b></summary>
-<br>
+### 🛠 Full Tech Stack Breakdown
 
 | Area | Technologies |
 |:--|:--|
@@ -78,8 +76,6 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 | **Hardware & IoT** | [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=FFFFFF)](https://www.raspberrypi.com/) [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=FFFFFF)](https://www.espressif.com/en/products/socs/esp32) [![Arduino Uno](https://img.shields.io/badge/Arduino_Uno-00878F?style=flat-square&logo=arduino&logoColor=FFFFFF)](https://docs.arduino.cc/hardware/uno-rev3/) ![HX711](https://img.shields.io/badge/HX711-0F766E?style=flat-square) ![Local Server](https://img.shields.io/badge/Local_Server-0F766E?style=flat-square) |
 
 <p align="right"><sub>Badges link to each tool's official site where one is available.</sub></p>
-
-</details>
 
 ---
 
