@@ -145,10 +145,6 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 
 <br><br>
 
-<a href="https://github.com/15Dkatz/official_joke_api">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&bgColor=F0F8FF&textColor=333333&qColor=005B96&aColor=00BFFF" alt="Jokes Card" />
-</a>
-
 </div>
 
 ---
