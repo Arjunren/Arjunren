@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFFFFF&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=005B96&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
 
-<h3 align="center">Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; CyberSecurity</h3>
+<h3 align="center">Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; DICT-Verified Cybersecurity Professional</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=005B96&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
 
@@ -19,9 +19,18 @@
 
 ## 🚀 About Me
 
-I'm a multidisciplinary **Software Engineer, Network Engineer, Cloud Engineer, and CyberSecurity Professional** focused on building secure, scalable, and end-to-end systems. My expertise bridges the gap between software development and infrastructure, covering everything from backend APIs and computer-vision interfaces to network automation and defensive security tooling.
+I'm a multidisciplinary **Software Engineer, Network Engineer, Cloud Engineer, and Cybersecurity Professional**, with a focus on designing and building secure, scalable, and reliable end-to-end systems. I'm also recognized as a **Cybersecurity Professional verified by the Department of Information and Communications Technology (DICT)**.
 
-Outside of engineering, I have a strong passion for photography. I enjoy combining technical problem-solving with visual creativity to build practical, impactful solutions.
+My work spans multiple areas of technology—from **full-stack software development, backend APIs, databases, and computer vision** to **network infrastructure, cloud platforms, DevOps automation, system administration, and defensive cybersecurity**. I enjoy working across the entire technology stack, connecting software, infrastructure, networking, and security rather than treating them as separate disciplines.
+
+My technical experience includes **Python, JavaScript, TypeScript, Java, C#, PHP, Go, and Rust**, alongside technologies such as **React, Node.js, Flask, FastAPI, MySQL, PostgreSQL, Docker, Kubernetes, AWS, Azure, Linux, and GitHub Actions**. I also work with networking and security technologies involving **Cisco, MikroTik, Fortinet, pfSense, Wireshark, Nmap, Burp Suite, OWASP security practices, vulnerability assessment, API security, and network automation**.
+
+I particularly enjoy building practical tools and systems—from **secure web applications and management platforms** to **computer-vision interfaces, developer utilities, monitoring systems, automation tools, and cybersecurity solutions**.
+
+Outside of engineering, I'm passionate about **photography**. It gives me another way to combine technical thinking with creativity, attention to detail, and visual storytelling.
+
+My goal is simple: **build technology that's useful, secure, maintainable, and designed to solve real-world problems.**
+
 
 ---
 
