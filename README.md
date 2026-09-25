@@ -243,19 +243,6 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 </td>
 </tr>
 </table>
-
----
-
-## Experience
-
-| Period | Role | Organization |
-|:--|:--|:--|
-| **2025 – Present** | Software Engineer Lead | BigBoys Automation |
-| **2024** | Senior Software Developer | BigBoys Automation |
-| **2024** | Junior Software Developer | BigBoys Automation |
-| **2023** | Technical IT Support | Datatelcom System Communication |
-| **2022** | Hello World! 👋 | Wrote my first line of code in Java |
-
 ---
 
 ## Open Source & Collaboration
