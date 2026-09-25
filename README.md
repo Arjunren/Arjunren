@@ -12,7 +12,6 @@
 <a href="https://github.com/Arjunren"><img src="https://img.shields.io/badge/GitHub-Arjunren-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/arjunren-von-valdez-37399b370/"><img src="https://img.shields.io/badge/LinkedIn-Arjunren_Von-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://github.com/Arjunren"><img src="https://komarev.com/ghpvc/?username=Arjunren&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"></a>
 
 </div>
 
