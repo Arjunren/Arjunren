@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=220&section=header&text=Arjunren%20Von&fontSize=64&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Arjunren Von">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0d1117&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
 
 <h3 align="center">Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; CyberSecurity</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=40&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
 
 <br>
 
 <a href="https://arjunrenvon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://github.com/Arjunren"><img src="https://img.shields.io/badge/GitHub-Arjunren-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/arjunren-von-valdez-37399b370/"><img src="https://img.shields.io/badge/LinkedIn-Arjunren_Von-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Arjunren&color=0A66C2&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+<a href="https://github.com/Arjunren"><img src="https://komarev.com/ghpvc/?username=Arjunren&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"></a>
 
 </div>
 
@@ -51,7 +49,7 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
   <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,gitlab,jenkins,ansible,terraform,linux&theme=dark" />
 </a><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nginx,apache,ubuntu,debian,redhat,windows,kali,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nginx,apache,arch,ubuntu,debian,redhat,windows,kali,powershell&theme=dark" />
 </a>
 
 </div>
