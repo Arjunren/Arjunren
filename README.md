@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=00FF00&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFFFFF&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=005B96&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
 
 <h3 align="center">Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; CyberSecurity</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=005B96&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
 
 <br>
 
-<a href="https://arjunrenvon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" alt="Portfolio"></a>
-<a href="https://github.com/Arjunren"><img src="https://img.shields.io/badge/GitHub-Arjunren-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/arjunren-von-valdez-37399b370/"><img src="https://img.shields.io/badge/LinkedIn-Arjunren_Von-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn"></a>
+<a href="https://arjunrenvon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-005B96?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/Arjunren"><img src="https://img.shields.io/badge/GitHub-Arjunren-005B96?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/arjunren-von-valdez-37399b370/"><img src="https://img.shields.io/badge/LinkedIn-Arjunren_Von-005B96?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &nbsp;
 
 </div>
@@ -128,17 +128,17 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjunren&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="Arjunren Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arjunren&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Arjunren Trophies" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunren&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="Arjunren's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunren&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Arjunren's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arjunren&show_icons=true&hide_border=true&bg_color=F0F8FF&title_color=005B96&text_color=333333&icon_color=00BFFF" alt="Arjunren's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunren&layout=compact&hide_border=true&bg_color=F0F8FF&title_color=005B96&text_color=333333" alt="Arjunren's Top Languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunren&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&stroke=00FF00" alt="Arjunren's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunren&hide_border=true&background=F0F8FF&ring=00BFFF&fire=00BFFF&currStreakNum=005B96&currStreakLabel=333333&sideNums=005B96&sideLabels=333333&dates=333333&stroke=87CEEB" alt="Arjunren's GitHub Streak" />
 
 <br>
 
@@ -149,18 +149,16 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 
 <br><br>
 
-<!-- Snake eating contribution tiles -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjunren/Arjunren/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjunren/Arjunren/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Arjunren/Arjunren/output/github-contribution-grid-snake.svg">
-</picture>
-<p align="center"><sub>Contribution calendar and Snake Game regenerated by GitHub Actions.</sub></p>
+<!-- Playable GitHub Contribution Breakout -->
+<h3>🎮 Play Brick Breaker on my contributions!</h3>
+<a href="https://github-breakout.vercel.app/?username=Arjunren">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=005B96&height=60&text=Play%20Breakout&fontColor=ffffff&fontSize=30&desc=Click%20here%20to%20smash%20my%20commits!&descAlignY=80" alt="Play Breakout">
+</a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/15Dkatz/official_joke_api">
-  <img src="https://readme-jokes.vercel.app/api?theme=hacker&hideBorder=true" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&bgColor=F0F8FF&textColor=333333&qColor=005B96&aColor=00BFFF" alt="Jokes Card" />
 </a>
 
 </div>
@@ -287,14 +285,14 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00FF00)](https://arjunrenvon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/Arjunren)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-005B96?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-005B96?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-005B96?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
 
 <br>
 
 **Building software, systems, and tools one project at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:87CEEB&height=110&section=footer" width="100%" alt="">
 
 </div>
