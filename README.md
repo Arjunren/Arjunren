@@ -48,7 +48,7 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
   <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,gitlab,jenkins,ansible,terraform,linux&theme=dark" />
 </a><br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nginx,apache,arch,ubuntu,debian,redhat,windows,kali,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nginx,arch,ubuntu,debian,redhat,windows,kali,powershell&theme=dark" />
 </a>
 
 </div>
