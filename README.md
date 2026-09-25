@@ -149,14 +149,6 @@ Outside of engineering, I have a strong passion for photography. I enjoy combini
 
 <br><br>
 
-<!-- Playable GitHub Contribution Breakout -->
-<h3>🎮 Play Brick Breaker on my contributions!</h3>
-<a href="https://github-breakout.vercel.app/?username=Arjunren">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=005B96&height=60&text=Play%20Breakout&fontColor=ffffff&fontSize=30&desc=Click%20here%20to%20smash%20my%20commits!&descAlignY=80" alt="Play Breakout">
-</a>
-
-<br><br>
-
 <a href="https://github.com/15Dkatz/official_joke_api">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&bgColor=F0F8FF&textColor=333333&qColor=005B96&aColor=00BFFF" alt="Jokes Card" />
 </a>
