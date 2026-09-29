@@ -107,8 +107,25 @@ My goal is simple: **build technology that's useful, secure, maintainable, and d
   </a>
   <br><br>
 </td>
-<td width="11.11%" align="center" valign="top"><br><img src="https://img.shields.io/badge/DT-0A66C2?style=for-the-badge" height="44" alt="Datatelcom"><br><sub><b>Datatelcom</b></sub><br><br></td>
-<td width="11.11%" align="center" valign="top"><br><img src="https://img.shields.io/badge/BB-0A66C2?style=for-the-badge" height="44" alt="BigBoys Automation"><br><sub><b>BigBoys Automation</b></sub><br><br></td>
+<td width="11.11%" align="center" valign="top">
+  <br>
+  <a href="https://tauri.app/">
+    <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" height="44" alt="Tauri">
+    <br>
+    <sub><b>Tauri</b></sub>
+  </a>
+  <br><br>
+</td>
+
+<td width="11.11%" align="center" valign="top">
+  <br>
+  <a href="https://www.anthropic.com/">
+    <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="44" alt="Anthropic">
+    <br>
+    <sub><b>Anthropic</b></sub>
+  </a>
+  <br><br>
+</td>
 </tr>
 <tr>
 <td align="center" valign="top"><br><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="44" alt="edX"><br><sub><b>edX</b></sub></a><br><br></td>
