@@ -157,14 +157,28 @@ My goal is simple: **build technology that's useful, secure, maintainable, and d
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjunren&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Arjunren Trophies" />
-</a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Arjunren&theme=flat&no-frame=true&no-bg=true&margin-w=15"
+      alt="Arjunren GitHub Trophies"
+    />
+  </a>
+</p>
 
-<br><br>
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Arjunren&show_icons=true&hide_border=true&theme=transparent"
+    alt="Arjunren GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunren&show_icons=true&hide_border=true&bg_color=F0F8FF&title_color=005B96&text_color=333333&icon_color=00BFFF" alt="Arjunren's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunren&layout=compact&hide_border=true&bg_color=F0F8FF&title_color=005B96&text_color=333333" alt="Arjunren's Top Languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunren&layout=compact&hide_border=true&theme=transparent"
+    alt="Arjunren Top Languages"
+  />
+</p>
 
 <br>
 
