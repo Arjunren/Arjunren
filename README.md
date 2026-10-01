@@ -17,23 +17,6 @@
 
 <br>
 
-## 🚀 About Me
-
-I'm a multidisciplinary **Software Engineer, Network Engineer, Cloud Engineer, and Cybersecurity Professional**, with a focus on designing and building secure, scalable, and reliable end-to-end systems. I'm also recognized as a **Cybersecurity Professional verified by the Department of Information and Communications Technology (DICT)**.
-
-My work spans multiple areas of technology—from **full-stack software development, backend APIs, databases, and computer vision** to **network infrastructure, cloud platforms, DevOps automation, system administration, and defensive cybersecurity**. I enjoy working across the entire technology stack, connecting software, infrastructure, networking, and security rather than treating them as separate disciplines.
-
-My technical experience includes **Python, JavaScript, TypeScript, Java, C#, PHP, Go, and Rust**, alongside technologies such as **React, Node.js, Flask, FastAPI, MySQL, PostgreSQL, Docker, Kubernetes, AWS, Azure, Linux, and GitHub Actions**. I also work with networking and security technologies involving **Cisco, MikroTik, Fortinet, pfSense, Wireshark, Nmap, Burp Suite, OWASP security practices, vulnerability assessment, API security, and network automation**.
-
-I particularly enjoy building practical tools and systems—from **secure web applications and management platforms** to **computer-vision interfaces, developer utilities, monitoring systems, automation tools, and cybersecurity solutions**.
-
-Outside of engineering, I'm passionate about **photography**. It gives me another way to combine technical thinking with creativity, attention to detail, and visual storytelling.
-
-My goal is simple: **build technology that's useful, secure, maintainable, and designed to solve real-world problems.**
-
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
