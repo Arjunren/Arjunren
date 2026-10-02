@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFFFFF&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=005B96&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E293B&height=180&section=header&text=Arjunren%20Von&fontSize=56&fontColor=38BDF8&fontAlignY=40&desc=Software%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=65&descSize=17&animation=fadeIn"
+    width="100%"
+    alt="Arjunren Von"
+  />
+</p>
 
 <h3 align="center">Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; DICT-Verified Cybersecurity Professional</h3>
 
