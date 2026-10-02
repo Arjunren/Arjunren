@@ -1,10 +1,10 @@
 <div align="center">
 
 <p align="center">
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E293B&height=180&section=header&text=Arjunren%20Von&fontSize=56&fontColor=38BDF8&fontAlignY=40&desc=Software%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=65&descSize=17&animation=fadeIn"
-    width="100%"
-    alt="Arjunren Von"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=700&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=%E2%94%8C%E2%94%80%E2%94%80(arjunren%E3%89%BFgithub)-%5B~%2Fprofile%5D;%E2%94%94%E2%94%80%24+whoami;Arjunren+Von;%E2%94%94%E2%94%80%24+echo+%24ROLE;Software+Engineer+%7C+Cloud+Engineer"
+    alt="Terminal Profile"
   />
 </p>
 
