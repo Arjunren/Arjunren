@@ -293,14 +293,17 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-005B96?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-005B96?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunren)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-005B96?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
+`arjunren@github:~$ ./connect.sh`
+
+[![Portfolio](https://img.shields.io/badge/portfolio-0D1117?style=flat-square&logo=vercel&logoColor=00FF41)](https://arjunrenvon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/github-0D1117?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/Arjunren)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
 
 <br>
 
-**Building software, systems, and tools one project at a time.**
+```text
+$ echo "Building software, systems, and tools one project at a time."
+Building software, systems, and tools one project at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:87CEEB&height=110&section=footer" width="100%" alt="">
-
-</div>
+$ logout
+Connection to github.com closed.
