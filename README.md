@@ -77,7 +77,7 @@
 
 ---
 
-## Verified by Industry-Leading Platforms
+## Courses, Training & Certifications
 
 <table width="100%">
 <tr>
