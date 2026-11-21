@@ -8,19 +8,6 @@
   />
 </p>
 
-<h3 align="center">Software Engineer &nbsp;•&nbsp; Network Engineer &nbsp;•&nbsp; Cloud Engineer &nbsp;•&nbsp; DICT-Verified Cybersecurity Professional</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=005B96&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
-
-<br>
-
-<a href="https://arjunrenvon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-005B96?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://github.com/Arjunren"><img src="https://img.shields.io/badge/GitHub-Arjunren-005B96?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/arjunren-von-valdez-37399b370/"><img src="https://img.shields.io/badge/LinkedIn-Arjunren_Von-005B96?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;
-
-</div>
-
 <br>
 
 <div align="center">
