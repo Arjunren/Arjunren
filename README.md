@@ -12,8 +12,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFFFFF&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=005B96&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
-
 <h3 align="center">Forward Deployed Engineer &nbsp;•&nbsp; AI Applications &nbsp;•&nbsp; Python &nbsp;•&nbsp; Software Integrations</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=005B96&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
