@@ -23,6 +23,51 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:FFFFFF&height=180&section=header&text=Arjunren%20Von&fontSize=64&fontColor=005B96&fontAlignY=35&animation=fadeIn" width="100%" alt="Arjunren Von">
+
+<h3 align="center">Forward Deployed Engineer &nbsp;•&nbsp; AI Applications &nbsp;•&nbsp; Python &nbsp;•&nbsp; Software Integrations</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=005B96&center=true&vCenter=true&width=600&height=32&lines=Building+secure+end-to-end+systems;Software+%C2%B7+Cloud+%C2%B7+Networks+%C2%B7+Security;Python+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+C%23" alt="Typing animation: Building secure end-to-end systems">
+
+<br>
+
+<a href="https://arjunrenvon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-005B96?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/Arjunren"><img src="https://img.shields.io/badge/GitHub-Arjunren-005B96?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/arjunren-von-valdez-37399b370/"><img src="https://img.shields.io/badge/LinkedIn-Arjunren_Von-005B96?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;
+
+</div>
+
+<br>
+
+## 🚀 About Me
+
+I'm a **Forward Deployed Engineer** focused on AI-powered applications, Python tooling, and software integrations for real-world workflows. I'm also recognized as a **Cybersecurity Professional verified by the Department of Information and Communications Technology (DICT)**.
+
+- **AI & Software Engineering** — AI applications, Python tools, and workflow automation.
+- **Networks & Cloud Engineering** — infrastructure, deployment, and connected systems.
+- **Cybersecurity Professional** — defensive security, API security, and access control.
+
+I'm the **Co-Founder of [BuildByte Academy](https://buildbyteacademy.vercel.app)**, a technical learning platform focused on practical, project-based education in software development, cloud computing, AI, and cybersecurity.
+
+Outside of engineering, I'm passionate about **photography**. It gives me another way to combine technical thinking with creativity, attention to detail, and visual storytelling.
+
+### Engineering experience
+
+| Dates | Role | Organization |
+| --- | --- | --- |
+| Present | Co-Founder | [BuildByte Academy](https://buildbyteacademy.vercel.app/) |
+| 2026 – Present | Network & Cloud Engineer | [Datatelcom System Communication](https://datatelcomsystem.com/) |
+| 2025 – Present | Software Engineer Lead | [BigBoys Automation](https://bigboysautomation.com/) |
+| 2024 | Senior Software Developer and Junior Software Developer | [BigBoys Automation](https://bigboysautomation.com/) |
+| 2023 | Technical IT Support | [Datatelcom System Communication](https://datatelcomsystem.com/) |
+
+[Full experience timeline](https://arjunrenvon.vercel.app/#experience) · [Download résumé](https://arjunrenvon.vercel.app/DeveloperResume.docx)
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -79,121 +124,70 @@
 
 ## Courses, Training & Certifications
 
+Browse the [training grid](https://arjunrenvon.vercel.app/#training) and [certificate gallery](https://arjunrenvon.vercel.app/#certificates) on my portfolio.
+
 <table width="100%">
 <tr>
-<td width="11.11%" align="center" valign="top"><br><a href="https://www.harvard.edu"><img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed.png?w=192" height="44" alt="Harvard University"><br><sub><b>Harvard University</b></sub></a><br><br></td>
-<td width="11.11%" align="center" valign="top"><br><a href="https://opswatacademy.com/"><img src="https://arjunrenvon.vercel.app/images/Opswat_Logo.ico" height="44" alt="OPSWAT Academy"><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
-<td width="11.11%" align="center" valign="top"><br><a href="https://appkademiya.online/"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Logo.ico" height="44" alt="Appkademiya"><br><sub><b>Appkademiya</b></sub></a><br><br></td>
-<td width="11.11%" align="center" valign="top"><br><a href="https://www.apisecuniversity.com/"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150614390/settings_images/l0FZUoUhRwGCesmcxCUe_file.jpg?v=2" height="44" alt="APIsec University"><br><sub><b>APIsec University</b></sub></a><br><br></td>
-<td width="11.11%" align="center" valign="top"><br><a href="https://www.coursera.org/"><img src="https://icon.horse/icon/coursera.org" height="44" alt="Coursera"><br><sub><b>Coursera</b></sub></a><br><br></td>
-<td width="11.11%" align="center" valign="top"><br><a href="https://www.udemy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy.svg" height="44" alt="Udemy"></picture><br><sub><b>Udemy</b></sub></a><br><br></td>
-<td width="11.11%" align="center" valign="top">
-  <br>
-  <a href="https://www.cloudflare.com/products/tunnel/">
-    <img src="https://www.cloudflare.com/favicon.ico" height="44" alt="Cloudflared">
-    <br>
-    <sub><b>Cloudflared</b></sub>
-  </a>
-  <br><br>
-</td>
-<td width="11.11%" align="center" valign="top">
-  <br>
-  <a href="https://tauri.app/">
-    <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" height="44" alt="Tauri">
-    <br>
-    <sub><b>Tauri</b></sub>
-  </a>
-  <br><br>
-</td>
-
-<td width="11.11%" align="center" valign="top">
-  <br>
-  <a href="https://www.anthropic.com/">
-    <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="44" alt="Anthropic">
-    <br>
-    <sub><b>Anthropic</b></sub>
-  </a>
-  <br><br>
-</td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.harvard.edu"><img src="public/media/training/harvard-university.webp" height="42" alt=""><br><sub><b>Harvard University</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://opswatacademy.com/"><img src="public/media/training/opswat-academy.webp" height="42" alt=""><br><sub><b>OPSWAT Academy</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://appkademiya.online/"><img src="public/media/training/appkademiya.webp" height="42" alt=""><br><sub><b>Appkademiya</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.apisecuniversity.com/"><img src="public/media/training/apisec-university.webp" height="42" alt=""><br><sub><b>APIsec University</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.coursera.org/"><img src="public/media/training/coursera.webp" height="42" alt=""><br><sub><b>Coursera</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.udemy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="public/media/training/udemy.webp"><img src="public/media/training/udemy-light.webp" height="42" alt=""></picture><br><sub><b>Udemy</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.cloudflare.com/products/tunnel/"><img src="public/media/training/cloudflared.webp" height="42" alt=""><br><sub><b>Cloudflared</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://tauri.app/"><img src="public/media/training/tauri.webp" height="42" alt=""><br><sub><b>Tauri</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.anthropic.com/"><img src="public/media/training/anthropic.webp" height="42" alt=""><br><sub><b>Anthropic</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center" valign="top"><br><a href="https://www.edx.org/"><img src="https://icon.horse/icon/edx.org" height="44" alt="edX"><br><sub><b>edX</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://freeacademy.ai/"><img src="https://icon.horse/icon/freeacademy.ai" height="44" alt="FreeAcademy.ai"><br><sub><b>FreeAcademy.ai</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://hackandfix.com/"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQFQCla8Yp6shw/company-logo_200_200/company-logo_200_200/0/1694588166869/hack_and_fix_logo?e=2147483647&v=beta&t=q9inqzcCE1pY2sw3l4kLNopG_khbLH9cxyOWCVamRK8" height="44" alt="Hack&amp;Fix"><br><sub><b>Hack&amp;Fix</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.freecodecamp.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/freecodecamp/FFFFFF"><img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" height="44" alt="freeCodeCamp"></picture><br><sub><b>freeCodeCamp</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://hackviser.com/"><img src="https://icon.horse/icon/hackviser.com" height="44" alt="HackViser"><br><sub><b>HackViser</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.cisco.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="44" alt="Cisco"><br><sub><b>Cisco</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.cloudskillsboost.google/"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="44" alt="Google Cloud"><br><sub><b>Google Cloud</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://training.fortinet.com/"><img src="https://cdn.simpleicons.org/fortinet/EE3124" height="44" alt="Fortinet"><br><sub><b>Fortinet</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.kaggle.com/learn"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="44" alt="Kaggle"><br><sub><b>Kaggle</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.edx.org/"><img src="public/media/training/edx.webp" height="42" alt=""><br><sub><b>edX</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://e.huawei.com/en/talent/ict-academy/"><img src="public/media/training/huawei.webp" height="42" alt=""><br><sub><b>Huawei</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://hackandfix.com/"><img src="public/media/training/hack-fix.webp" height="42" alt=""><br><sub><b>Hack&amp;Fix</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.freecodecamp.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="public/media/training/freecodecamp.webp"><img src="public/media/training/freecodecamp-light.webp" height="42" alt=""></picture><br><sub><b>freeCodeCamp</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://hackviser.com/"><img src="public/media/training/hackviser.webp" height="42" alt=""><br><sub><b>HackViser</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.cisco.com/"><img src="public/media/training/cisco.webp" height="42" alt=""><br><sub><b>Cisco</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.cloudskillsboost.google/"><img src="public/media/training/google-cloud.webp" height="42" alt=""><br><sub><b>Google Cloud</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://training.fortinet.com/"><img src="public/media/training/fortinet.webp" height="42" alt=""><br><sub><b>Fortinet</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.kaggle.com/learn"><img src="public/media/training/kaggle.webp" height="42" alt=""><br><sub><b>Kaggle</b></sub></a><br><br></td>
 </tr>
 <tr>
-<td align="center" valign="top"><br><a href="https://www.offsec.com/"><img src="https://icon.horse/icon/offsec.com" height="44" alt="OffSec"><br><sub><b>OffSec</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://dict.gov.ph/"><img src="https://arjunrenvon.vercel.app/images/DICT_Logo.png" height="44" alt="DICT"><br><sub><b>DICT</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.datacamp.com/"><img src="https://cdn.simpleicons.org/datacamp/03EF62" height="44" alt="DataCamp"><br><sub><b>DataCamp</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.codecademy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codecademy/FFFFFF"><img src="https://cdn.simpleicons.org/codecademy/1F4056" height="44" alt="Codecademy"></picture><br><sub><b>Codecademy</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://tryhackme.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" height="44" alt="TryHackMe"><br><sub><b>TryHackMe</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://www.hackthebox.com/"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="44" alt="Hack The Box"><br><sub><b>HTB</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://portswigger.net/web-security"><img src="https://cdn.simpleicons.org/portswigger/FF6633" height="44" alt="PortSwigger"><br><sub><b>PortSwigger</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://learn.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" height="44" alt="Microsoft"><br><sub><b>Microsoft</b></sub></a><br><br></td>
-<td align="center" valign="top"><br><a href="https://aws.amazon.com/training/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg" height="44" alt="AWS"></picture><br><sub><b>AWS</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.offsec.com/"><img src="public/media/training/offsec.webp" height="42" alt=""><br><sub><b>OffSec</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://dict.gov.ph/"><img src="public/media/training/dict.webp" height="42" alt=""><br><sub><b>DICT</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.datacamp.com/"><img src="public/media/training/datacamp.webp" height="42" alt=""><br><sub><b>DataCamp</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.codecademy.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="public/media/training/codecademy.webp"><img src="public/media/training/codecademy-light.webp" height="42" alt=""></picture><br><sub><b>Codecademy</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://tryhackme.com/"><img src="public/media/training/tryhackme.webp" height="42" alt=""><br><sub><b>TryHackMe</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://www.hackthebox.com/"><img src="public/media/training/htb.webp" height="42" alt=""><br><sub><b>HTB</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://portswigger.net/web-security"><img src="public/media/training/portswigger.webp" height="42" alt=""><br><sub><b>PortSwigger</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://learn.microsoft.com/"><img src="public/media/training/microsoft.webp" height="42" alt=""><br><sub><b>Microsoft</b></sub></a><br><br></td>
+<td width="11.11%" align="center" valign="top"><br><a href="https://aws.amazon.com/training/"><picture><source media="(prefers-color-scheme: dark)" srcset="public/media/training/aws.webp"><img src="public/media/training/aws-light.webp" height="42" alt=""></picture><br><sub><b>AWS</b></sub></a><br><br></td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Arjunren&theme=flat&no-frame=true&no-bg=true&margin-w=15"
-      alt="Arjunren GitHub Trophies"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Arjunren&show_icons=true&hide_border=true&theme=transparent"
-    alt="Arjunren GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunren&layout=compact&hide_border=true&theme=transparent"
-    alt="Arjunren Top Languages"
-  />
-</p>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunren&hide_border=true&background=F0F8FF&ring=00BFFF&fire=00BFFF&currStreakNum=005B96&currStreakLabel=333333&sideNums=005B96&sideLabels=333333&dates=333333&stroke=87CEEB" alt="Arjunren's GitHub Streak" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img width="80%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Arjunren 3D GitHub contribution calendar">
-</picture>
-
-<br><br>
-
-</div>
+The portfolio shows my public repository count, stars, forks, followers, and the most common primary languages across my original public repositories. The dashboard displays the snapshot date. [GitHub analytics](https://arjunrenvon.vercel.app/#github-analytics) · [GitHub profile](https://github.com/Arjunren)
 
 ---
 
 ## Featured Projects
 
-<sub>My current pinned GitHub repositories.</sub>
+| Project | What it does | Project site |
+| --- | --- | --- |
+| [Agentic AI 101](https://arjunrenvon.vercel.app/projects/agentic-ai-101/) | Review AI-assisted designs and generate Java starter code from a versioned project specification. | [Live demo](https://agenticai101.vercel.app/#demo) |
+| [SakayLens](https://arjunrenvon.vercel.app/projects/SakayLens/) | Offline Android jeepney route assistant with on-device destination recognition, maps, and trip planning. | [Website](https://sakaylens.vercel.app/) |
+| [AURA](https://arjunrenvon.vercel.app/projects/AURA/) | Android music player for local tracks, playlists, and synced lyrics. | [Website](https://auraplayist.vercel.app/) |
+| [WebBuilder AV](https://arjunrenvon.vercel.app/projects/WebBuilder/) | Visual portfolio builder with responsive editing and static HTML export. | [Website](https://webbuilderav.vercel.app/) |
+| [BilisPDF](https://arjunrenvon.vercel.app/projects/BilisPDF/) | Offline Windows PDF utility with desktop, File Explorer, and command-line workflows. | [Website](https://bilispdf.vercel.app/) |
+| [NetSurvey](https://arjunrenvon.vercel.app/projects/NetSurvey/) | Offline Android Wi-Fi surveys with floor plans, signal measurements, heatmaps, and reports. | [Website](https://netsurveyandroid.vercel.app/) |
+
+<details>
+<summary>More developer projects</summary>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Arjunren/Jarvis_V1"><b>Jarvis_V1</b></a><br>
+<a href="https://github.com/Arjunren/AI_Jarvis"><b>Jarvis_V1</b></a><br>
 <sub>Voice-activated Windows AI assistant with speech recognition, text-to-speech, app/system controls, web actions, media controls, a pygame interface, and automated tests.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </td>
@@ -206,7 +200,7 @@
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/Arjunren/Digital_Asset_Management"><b>Digital_Asset_Management</b></a><br>
+<a href="https://github.com/Arjunren/DigitalAssetManagement"><b>Digital_Asset_Management</b></a><br>
 <sub>Native digital-asset library for local XAMPP use with secure uploads, metadata/search, RBAC, previews, version history, sharing, collections, reporting, audit logs, and recycle-bin workflows.</sub><br><br>
 <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
@@ -225,7 +219,7 @@
 <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square" alt="WPF">
 </td>
 <td valign="top">
-<a href="https://github.com/Arjunren/Table_Management_System"><b>Table_Management_System</b></a><br>
+<a href="https://github.com/Arjunren/TableManagementSystem"><b>Table_Management_System</b></a><br>
 <sub>Full-stack restaurant table-management system with dynamic floorplan editing, real-time table operations, receipt generation, MySQL-backed data handling, and deployment automation.</sub><br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
@@ -233,10 +227,13 @@
 </td>
 </tr>
 </table>
+</details>
 
 ---
 
 ## Certificates & Credentials
+
+The portfolio includes 33 credentials. Featured credentials include DataCamp's [AI Engineer for Developers Associate](public/media/Certificate_AIEngineer_Datacamp.webp) and [Python Developer Associate](public/media/Certificate_PythonDevAssociate_Datacamp.webp), alongside both Harvard CS50 certificates. [View the certificate gallery](https://arjunrenvon.vercel.app/#certificates)
 
 <table>
 <tr>
@@ -252,7 +249,7 @@
 <tr>
 <td align="center" valign="top">
 <a href="https://learn.opswatacademy.com/certificate/gAYq4n0udg"><img src="https://arjunrenvon.vercel.app/images/OPSWAT_Certificate_CIP_A4.png" width="100%" alt="Critical Infrastructure Protection certificate"></a><br>
-<b>Critical Infrastructure Protection (CIP)</b><br><sub>OPSWAT Academy</sub>
+<b>Introduction to Critical Infrastructure Protection (ICIP)</b><br><sub>OPSWAT Academy</sub>
 </td>
 <td align="center" valign="top">
 <a href="https://appkademiya.online/verify/CERT-NETOPS-CERTIFIED-ENGINEER-NTO101-20260822-B7A19E44CA48"><img src="https://arjunrenvon.vercel.app/images/Appkademiya_Certificate_NetOps_A4.png" width="100%" alt="NetOps Certified Engineer certificate"></a><br>
@@ -272,11 +269,21 @@
 <tr>
 <td align="center" valign="top">
 <a href="https://www.apisecuniversity.com/"><img src="https://arjunrenvon.vercel.app/images/Apisec_Certificate_APIAuth.jpg" width="100%" alt="API Security Authentication certificate"></a><br>
-<b>API Security Authentication</b><br><sub>APIsec University</sub>
+<b>API Authentication</b><br><sub>APIsec University</sub>
 </td>
 <td align="center" valign="top">
 <a href="https://www.apisecuniversity.com/"><img src="https://arjunrenvon.vercel.app/images/Apisec_Certificate_Owasp.jpg" width="100%" alt="OWASP API Security Top 10 certificate"></a><br>
 <b>OWASP API Security Top 10</b><br><sub>APIsec University</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://cs50.harvard.edu/certificates/3736d72b-6923-4150-a4f1-5e6da9ea216c"><img src="https://arjunrenvon.vercel.app/images/Certificate_CS50C.png" width="100%" alt="CS50's Introduction to Cybersecurity certificate"></a><br>
+<b>CS50's Introduction to Cybersecurity</b><br><sub>Harvard University · 2026</sub>
+</td>
+<td align="center" valign="top">
+<a href="https://arjunrenvon.vercel.app/images/Certificate_Gemini.png"><img src="https://arjunrenvon.vercel.app/images/Certificate_Gemini.png" width="100%" alt="Gemini Certified Student K12 certificate"></a><br>
+<b>Gemini Certified Student (K12)</b><br><sub>Google for Education · Issued October 1, 2026 · Valid through October 1, 2029</sub>
 </td>
 </tr>
 </table>
@@ -288,6 +295,38 @@
 > You're welcome to explore my public repositories, report reproducible issues, suggest improvements, and submit contributions to projects that accept them. Contribution rules and project scope may vary by repository, so check each project's README, issue tracker, and contribution guidance first.
 
 ---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjunrenvon.vercel.app-005B96?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunrenvon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arjunren-005B96?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjunren_Von-005B96?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunren-von-valdez-37399b370/)
+[![Facebook](https://img.shields.io/badge/Facebook-arjunrenvon-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arjunrenvon)
+[![Instagram](https://img.shields.io/badge/Instagram-arjunren__von-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arjunren_von)
+
+<br>
+
+**Building software, systems, and tools one project at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:87CEEB&height=110&section=footer" width="100%" alt="">
+
+</div>
+
+---
+
+### Portfolio interface
+
+The homepage features the Forward Deployed Engineer introduction, DataCamp AI and Python badges, and project previews. Agentic AI 101 includes an Architecture Studio capture with sample data and a link to the public interactive demo. [Project website](https://agenticai101.vercel.app/) · [Source screenshot](https://agenticai101.vercel.app/screenshots/architecture.png)
+
+`src/hooks/useReveal.ts` uses an IntersectionObserver for one-time section-heading reveals. CSS handles hover states, the hero entrance, and transitions. The site honors system motion and theme preferences, and an explicit theme choice persists.
+
+## Selected work and credentials
+
+SakayLens is an offline Android commuting assistant built by the four-person CS501 team. Its case study covers Kotlin, Jetpack Compose, on-device AI, offline maps, and route lookup. The repository requires access. [Project website](https://sakaylens.vercel.app)
+
+The credential grid features DataCamp's AI Engineer for Developers Associate and Python Developer Associate certifications alongside the Harvard CS50 credentials. It also includes the AppBuildersPH 2026 participation certificate from team CS501. The hackathon timeline lists Microsoft's Inside the Game event separately.
 
 ## 🤝 Let's Connect
 
